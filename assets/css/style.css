@@ -1,3 +1,8 @@
 body{
     background: black;
+    min-width: 560px;
+}
+
+.jumbotron{
+    padding-left: 2%;
 }
