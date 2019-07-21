@@ -6,3 +6,11 @@ body{
 .jumbotron{
     padding-left: 2%;
 }
+
+#profilePic{
+    width: 100%;
+}
+
+/* .btn-primary{
+    width: 75%;
+} */
