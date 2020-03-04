@@ -43,3 +43,14 @@ $(document).on("click", "#Retro", function () {
     $('#main').append(newDiv);
 });
 
+$(document).on("click", "#Resume", function () {
+    $('#main').empty();
+    const newDiv = $('<div>');
+    $('#main').append(newDiv);
+});
+
+$(document).on("click", "#Contact", function () {
+    $('#main').empty();
+    const newDiv = $('<div>');
+    $('#main').append(newDiv);
+});
